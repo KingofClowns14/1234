@@ -1,0 +1,8 @@
+окт. 12, 2025 12:16:28 PM geometry3d.Cylinder <init>
+FINEST: Создан обьект Cylinder с основанием = geometry2d.Circle@27f8302d и высотой = 12.0
+окт. 12, 2025 12:16:28 PM geometry3d.Cylinder Volume
+FINEST: Обьем цилиндра = 3769.9111843077517
+окт. 12, 2025 12:16:28 PM geometry3d.Cylinder <init>
+FINEST: Создан обьект Cylinder с основанием = geometry2d.Rectangle@4534b60d и высотой = 11.0
+окт. 12, 2025 12:16:28 PM geometry3d.Cylinder Volume
+FINEST: Обьем цилиндра = 2200.0

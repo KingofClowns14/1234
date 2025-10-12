@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-10-12T05:16:28.350258300Z</date>
+  <millis>1760246188350</millis>
+  <nanos>258300</nanos>
+  <sequence>2</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Создан обьект Cicrle c радиусом = 10.0</message>
+</record>
+<record>
+  <date>2025-10-12T05:16:28.352740800Z</date>
+  <millis>1760246188352</millis>
+  <nanos>740800</nanos>
+  <sequence>3</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>1</thread>
+  <message>Площадь круга = 314.1592653589793</message>
+</record>
+<record>
+  <date>2025-10-12T05:16:28.355142700Z</date>
+  <millis>1760246188355</millis>
+  <nanos>142700</nanos>
+  <sequence>4</sequence>
+  <logger>geometry2d.Rectangle</logger>
+  <level>INFO</level>
+  <class>geometry2d.Rectangle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Создан обьект Rectangele с длиной = 10.0 шириной = 20.0</message>
+</record>
+<record>
+  <date>2025-10-12T05:16:28.355142700Z</date>
+  <millis>1760246188355</millis>
+  <nanos>142700</nanos>
+  <sequence>5</sequence>
+  <logger>geometry2d.Rectangle</logger>
+  <level>INFO</level>
+  <class>geometry2d.Rectangle</class>
+  <method>Area</method>
+  <thread>1</thread>
+  <message>Площадь прямоугольника = 200.0</message>
+</record>
+<record>
+  <date>2025-10-12T05:16:28.359592200Z</date>
+  <millis>1760246188359</millis>
+  <nanos>592200</nanos>
+  <sequence>8</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>Area</method>
+  <thread>1</thread>
+  <message>Площадь круга = 314.1592653589793</message>
+</record>
+<record>
+  <date>2025-10-12T05:16:28.362101Z</date>
+  <millis>1760246188362</millis>
+  <nanos>101000</nanos>
+  <sequence>11</sequence>
+  <logger>geometry2d.Rectangle</logger>
+  <level>INFO</level>
+  <class>geometry2d.Rectangle</class>
+  <method>Area</method>
+  <thread>1</thread>
+  <message>Площадь прямоугольника = 200.0</message>
+</record>
+<record>
+  <date>2025-10-12T05:16:28.364412200Z</date>
+  <millis>1760246188364</millis>
+  <nanos>412200</nanos>
+  <sequence>15</sequence>
+  <logger>geometry2d.Circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.Circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Создан обьект Cicrle c радиусом = 35.0</message>
+</record>
+</log>
