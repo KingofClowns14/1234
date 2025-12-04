@@ -1,0 +1,9 @@
+com\la12\ProgressServer.class
+com\la12\MatchesGameServer$PlayerHandler.class
+com\la12\MatchesGameClient.class
+com\la12\LauncherApp.class
+com\la12\ProgressClientApp.class
+com\la12\CalculatorServer.class
+com\la12\MatchesGameServer.class
+com\la12\ProgressServer$ClientHandler.class
+com\la12\CalculatorClient.class
